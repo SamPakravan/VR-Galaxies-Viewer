@@ -252,3 +252,33 @@ Received Import Request.
   path: Assets/XR/XRGeneralSettings.asset
   artifactKey: Guid(1a4c68ca72a83449f938d669337cb305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/XR/XRGeneralSettings.asset using Guid(1a4c68ca72a83449f938d669337cb305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a16813717c7577fd5d9c9d47ca9fcf') in 0.009973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 717.421174 seconds.
+  path: Packages/com.unity.xr.arsubsystems
+  artifactKey: Guid(12044b9b0e94a8f10795339fe0015729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arsubsystems using Guid(12044b9b0e94a8f10795339fe0015729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea498abb71b500198c52ee9acf2cf02') in 0.004579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.090661 seconds.
+  path: Packages/com.unity.xr.arsubsystems/package.json
+  artifactKey: Guid(138de250db28475c974590f762d87650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arsubsystems/package.json using Guid(138de250db28475c974590f762d87650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ccef4d7722c7d90c8283dcbd824031c') in 0.011561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.097404 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9e3fd91edb1edad864fc97d3b45e87') in 0.002549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.512612 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688e118790a518878124c1de9049f876') in 0.003808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.352269 seconds.
+  path: Assets/ExampleAssets/Models
+  artifactKey: Guid(4a0dd92c4753243b18b4100cf4991b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models using Guid(4a0dd92c4753243b18b4100cf4991b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f393eb9eeb9cc0e32f35eaf84ad4c547') in 0.003891 seconds 
